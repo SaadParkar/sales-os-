@@ -1,0 +1,7 @@
+project_id = "otoejkcuzqmwgfxwvrrz"
+
+[functions.send-push]
+verify_jwt = false
+
+[functions.daily-digest]
+verify_jwt = false
